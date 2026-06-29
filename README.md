@@ -104,15 +104,6 @@ Gradient-Generator/
 
 ---
 
-## Preview
-
-<p align="center">
-<img src="assets/preview.gif" width="800">
-</p>
-
-> Replace `preview.gif` with a screen recording of your project.
-
----
 
 ## Example CSS
 
